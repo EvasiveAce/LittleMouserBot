@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF)
-
+![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=FFFFFF)
 
 ![LittleMouserGif](https://github.com/user-attachments/assets/9a37eba2-eb5f-4aed-908e-a2502366306b)
 # Little Mouser Discord Bot
